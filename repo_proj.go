@@ -2,10 +2,8 @@ package main
 
 import (
 	"fmt"
- )
+)
 
 func main() {
-	fmt.Println("nnnnnnnnnnnnnn")
+	fmt.Println("nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn")
 }
-
-
