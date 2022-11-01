@@ -7,4 +7,5 @@ type Person struct {
 
 func main() {
 
+	println("Hey")
 }
