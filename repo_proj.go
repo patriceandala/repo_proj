@@ -1,10 +1,15 @@
 package main
 
+import "fmt"
+
 type Person struct {
 	name string
 	Age  string
 }
 
 func main() {
-	println("massa")
+	fmt.Println(Person{
+		"Patrice", "33",
+	})
+
 }
