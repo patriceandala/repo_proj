@@ -6,5 +6,5 @@ type Person struct {
 }
 
 func main() {
-
+	fmt.Println("Hey")
 }
