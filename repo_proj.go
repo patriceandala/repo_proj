@@ -9,7 +9,7 @@ type Person struct {
 
 func main() {
 	fmt.Println(Person{
-		"Patrice", "33",
+		"Test", "Reb",
 	})
 
 }
