@@ -18,7 +18,7 @@ func main() {
 		"Squanch", "IrIsh",
 	})
 	fmt.Println(Person{
-		"Other", "Ish",
+		"Bird", "Person",
 	})
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
