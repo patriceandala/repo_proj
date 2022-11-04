@@ -15,6 +15,9 @@ func main() {
 		"Test", "Reb",
 	})
 	fmt.Println(Person{
+		"Other", "IrIsh",
+	})
+	fmt.Println(Person{
 		"Other", "Ish",
 	})
 
